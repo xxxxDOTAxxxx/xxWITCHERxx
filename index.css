@@ -3,7 +3,7 @@
   background-repeat: no-repeat;
   background-image: url("images/default-image.jpg?rand=c685");
   background-size: cover;
-  min-height: 1099px;
+  min-height: 100vh;
 }
 
 .u-section-1 .u-tabs-1 {
